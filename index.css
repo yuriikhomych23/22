@@ -1,0 +1,95 @@
+/* .btn-group {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #000;
+}
+
+button{
+    width: 25%;
+    height: 25px;
+
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: lightseagreen;
+    margin: 10px auto;
+    display: none;
+} */
+
+
+
+
+/* ДОРОБИТИ */
+/* 
+
+.box {
+    width: 60px;
+    height: 60px;
+    background-color: red;
+}
+.box {
+    width: 60px;
+    height: 60px;
+    background-color: green;
+}
+.box {
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+}
+.box {
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.box {
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+}
+
+.box{
+    max-width: 600px;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.modal {
+    width: 200px;
+    height: 200px;
+    display: none;
+    border: 1px solid #000;
+    position: absolute;
+} */
+
+
+
+
+
+/* input {
+    margin: 5px;
+}
+
+p:nth-of-type(1) {
+    background-color: red;
+}
+
+p:nth-of-type(2) {
+    background-color: yellow;
+}
+p:nth-of-type(3) {
+    background-color: green;
+}
+
+p {
+    display: inline-block;
+    width: 0;
+    height: 30px;
+    margin: 5px;
+} */
